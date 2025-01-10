@@ -15,7 +15,7 @@ body {
 
 header {
     border-radius: 16px;
-    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url("/images/Banner\ Image.png");
+    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url("../images/Banner\ Image.png");
     width: 1320px;
     height: 600px;
     display: flex;
@@ -70,7 +70,7 @@ header h1 {
 
 .welcome-sec {
     border-radius: 16px;
-    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url("/images/Vectorrr.png");
+    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url("../images/Vectorrr.png");
     height: 600px;
     width: 1320px;
     margin: 0 auto;
